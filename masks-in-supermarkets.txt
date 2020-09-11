@@ -1,0 +1,7 @@
+As a regular visitor to the {{ supermarket name and location }}, it’s quite startling how staff are not wearing face coverings. Today, at {{ time }} there were around {{ Value }} members of staff on the shop floor, not one with a face covering.
+
+I am aware of your policy and encouragement of staff to wear masks, {{ supermarket-covid-policy-link }} but in the current climate, the laid back approach of this store from either staff and/or management is quite something, bordering on reckless.
+
+I’m aware that this is a wider problem in society with resistance to face coverings, but {{ supermarket name }} could and should step up and set a better example.
+
+Throughout the past 6 months, this store has been a model of how to do things right re social distancing and service, so this is why this is disappointing.
